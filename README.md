@@ -1,5 +1,5 @@
 # Survival-Analysis
-A mini project that predicts the probability of survival of cancer patients after operation using the Kaplan-Meier Estimate
+A survival analysis project that predicts the probability of survival of cancer patients after operation using the Kaplan-Meier Estimate
 
 # Data Attributes
 1. Age of patient at time of operation (numerical) 
