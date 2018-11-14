@@ -33,3 +33,6 @@ kmf.survival_function_
 
 #Time to event
 kmf._conditional_time_to_event_()
+
+#Survival Analysis plot
+kmf.plot()
