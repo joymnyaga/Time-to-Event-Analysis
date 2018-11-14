@@ -8,7 +8,7 @@ Created on Mon Nov  5 18:01:00 2018
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 from lifelines import KaplanMeierFitter
 
 #Load data
